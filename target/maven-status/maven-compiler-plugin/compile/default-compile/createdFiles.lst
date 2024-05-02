@@ -1,0 +1,15 @@
+EX1\BaseModel.class
+com\eniso\Mavenproject1.class
+EX2\Main.class
+EX2\MathOperations.class
+EX2\UserAgeException.class
+EX1\RegressionDataset.class
+EX1\Main.class
+EX1\NeuralNetwork.class
+EX1\RandomForest.class
+EX1\Dataset.class
+EX1\SupportVectorMachine.class
+EX2\UserValidator.class
+EX1\ClassificationDataset.class
+EX1\MachineLearningModel.class
+EX2\FileManager.class
